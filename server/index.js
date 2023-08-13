@@ -1,6 +1,6 @@
 import express from 'express'
 import productsRoutes from './routes/products.routes.js'
-import categoriesRoutes from './routes/products.routes.js'
+import categoriesRoutes from './routes/categories.routes.js'
 
 
 const app= express()
